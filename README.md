@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Starter Repo Refactor
+A repo refactored by a person with little prior Phython experience.
